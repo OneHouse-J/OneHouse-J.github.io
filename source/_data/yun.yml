@@ -1,0 +1,16 @@
+banner:
+  enable: true
+  title: 杰の一居屋
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+avatar:
+  url: /images/wendy.jpg # 你的头像图片地址
+  rounded: true
+  opacity: 1
